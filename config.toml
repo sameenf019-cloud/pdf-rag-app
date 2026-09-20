@@ -1,0 +1,11 @@
+config.toml[theme]
+primaryColor = "#6C63FF"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
